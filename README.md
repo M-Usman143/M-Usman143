@@ -17,47 +17,11 @@ Software Engineer specializing in AI-powered mobile and web solutions. With stro
 
 ### 🛠️ Tech in my Stack
 
-<p align="center">
-  <!-- You can add logos for Python, TensorFlow, PyTorch, etc. here later -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-## 🧰 Tools I Use
-
-- **IDEs:** VS Code, Jupyter Notebook
-- **Version Control:** Git, GitHub
-- **Productivity:** Notion, Trello
-
----
-
-### 📊 GitHub Stats
-
-<!-- This is a placeholder. You will use a service to generate this dynamically -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
-
----
-
-### 🔗 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alishbarnoor19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- Add more social badges as needed -->
-</p>
-
----
-<p align="center">
-  <i>⚡ Fin</i>
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nodejs,java,kotlin,firebase,tensorflow,pytorch" /> </p><p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,mongodb,mysql,aws" /> </p>
+🧰 Tools I Use
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,notion,trello" /> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Usman143&show_icons=true&theme=radical" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman143&layout=compact&theme=radical" alt="Top Languages" /> </p>
+🔗 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:muhusman67890@gmail.com?"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://twitter.com/yourprofile"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="https://www.kaggle.com/yourprofile"> <img src="https://skillicons.dev/icons?i=kaggle" /> </a> </p>
+<p align="center"> <i>⚡ Fin</i> </p>
