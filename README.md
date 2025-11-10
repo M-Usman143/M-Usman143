@@ -17,9 +17,9 @@ Software Engineer specializing in AI-powered mobile and web solutions. With stro
 
 ### 🛠️ Tech in my Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nodejs,java,kotlin,firebase,tensorflow,pytorch" /> </p><p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode,mongodb,mysql,aws" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,django,flutter,dart,nodejs,java,kotlin,firebase," /> </p><p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,react,mysql" /> </p>
 🧰 Tools I Use
-<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,linux,figma,notion,trello" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,androidstudio," /> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Usman143&show_icons=true&theme=radical" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman143&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🔗 Let's Connect
