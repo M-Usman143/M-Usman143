@@ -23,5 +23,5 @@ Software Engineer specializing in AI-powered mobile and web solutions. With stro
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=M-Usman143&show_icons=true&theme=radical" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Usman143&layout=compact&theme=radical" alt="Top Languages" /> </p>
 🔗 Let's Connect
-<p align="center"> <a href="https://www.linkedin.com/in/yourprofile"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:muhusman67890@gmail.com?"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://twitter.com/yourprofile"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="https://www.kaggle.com/yourprofile"> <img src="https://skillicons.dev/icons?i=kaggle" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/muhusman1623/"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:muhusman67890@gmail.com?"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <a href="https://twitter.com/yourprofile">  </a> </p>
 <p align="center"> <i>⚡ Fin</i> </p>
